@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as a **React Developer**
 - 🌱 I’m currently learning **Design Patterns, Java and Spring boot**
 - 💬 Ask me about **JavaScript, React and NodeJs**
-- 📫 How to reach me: [@EssamJs](https://twitter.com/EssamJs) on Twitter
+- 📫 How to reach me: [Mhmd Essam](https://www.linkedin.com/in/essamjs/) on linkedin
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 ### :hammer_and_wrench: Languages and Tools :
