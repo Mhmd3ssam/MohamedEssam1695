@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working as a **React Developer**
-- 🌱 I’m currently learning **Design Patterns and GO**
+- 🌱 I’m currently learning **Design Patterns, Java and spring boot**
 - 💬 Ask me about **JavaScript, React and NodeJs**
 - 📫 How to reach me: [@EssamJs](https://twitter.com/EssamJs) on Twitter
 - ⚡ Fun fact: Big Fan of the :zap: emoji
