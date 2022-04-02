@@ -6,10 +6,9 @@
 
 
 - 🔭 I’m currently working as a **React Developer**
-- 🌱 I’m currently learning **Design Patterns, Java and Spring boot**
+- 🌱 I’m currently learning **Design Patterns and TypeScript**
 - 💬 Ask me about **JavaScript, React and NodeJs**
 - 📫 How to reach me: [Mhmd Essam](https://www.linkedin.com/in/essamjs/) on linkedin
-- ⚡ Fun fact: Big Fan of the :zap: emoji
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
